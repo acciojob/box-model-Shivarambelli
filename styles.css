@@ -1,1 +1,41 @@
+#con
+{
+	height:210px;
+	width:500px;
+	background-color:lightgray;
+	border-radius:58px;
+	border:5px solid black;
+	display:flex;
+	text-align:center;
+	justify-content:center;
+	display:block-axis;
+	align-items:center;
+	margin:50px;
+	
+}
+#green
+{
+	height:100px;
+	width:100px;
+	background-color:green;
+	border-radius:50%;
+	margin:5px;
+}
+#yellow
+{
+	height:100px;
+	width:100px;
+	background-color:yellow;
+	border-radius:50%;
+	margin:5px;
+	
+}
+#red
+{
+	height:100px;
+	width:100px;
+	background-color:red;
+	border-radius:50%;
+	margin:5px;
+}
 /*  your css code here. If applicable */
